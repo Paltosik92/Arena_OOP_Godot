@@ -1,0 +1,19 @@
+# Godot generated cache and imported resource database
+.godot/
+
+# C# build output
+bin/
+obj/
+
+# IDE local files
+.vs/
+*.csproj.user
+*.suo
+
+# User-specific export settings
+export.cfg
+export_presets.cfg
+
+# Operating system files
+Thumbs.db
+.DS_Store
